@@ -1,10 +1,10 @@
-Try Handlebars.js 
+Try Handlebars.js
 =================
 
 ---
-[http://www.tryhandlebarsjs.com](http://www.tryhandlebarsjs.com "Try Handlebars in your browser!")
+[trydashbars](http://pismute.github.io/Try-Dashbars/) is a web tool including [dashbars](https://github.com/pismute/dashbars)
 
-Try Handlebars is a web tool I made to help preview [Handlebars.js](http://www.handlebarsjs.com/) templates easily in the browser. 
+Try Handlebars is a web tool I made to help preview [Handlebars.js](http://www.handlebarsjs.com/) templates easily in the browser.
 
 This site was built quickly on top of [HTML5 Boilerplate](http://html5boilerplate.com/).
 
